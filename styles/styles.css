@@ -129,6 +129,7 @@ textarea{
     margin: 10px;
     border:1px solid orangered;
     height:200px;
+    resize: none;
 }
 textarea:focus{
     outline: none;
